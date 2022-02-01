@@ -2,7 +2,7 @@
 title: "Lab5_part1"
 author: "Xiaoyu Xu"
 date: "2022/2/1"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
